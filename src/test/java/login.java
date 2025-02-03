@@ -27,6 +27,7 @@ public class login {
 	    driver.findElement(username).sendKeys("standard_user");
 	    driver.findElement(password).sendKeys("secret_sauce");
 	    driver.findElement(loginbutton).click();
+	    driver.close();
 	    
 	}
 }
