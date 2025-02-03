@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-01-18T22:27:49 IST" name="Default suite" finished-at="2025-01-18T22:27:59 IST" duration-ms="9602">
+  <suite started-at="2025-01-23T11:51:32 IST" name="Default suite" finished-at="2025-01-23T11:51:43 IST" duration-ms="11034">
     <groups>
     </groups>
-    <test started-at="2025-01-18T22:27:49 IST" name="Default test" finished-at="2025-01-18T22:27:59 IST" duration-ms="9602">
-      <class name="login">
-        <test-method signature="loginn()[pri:0, instance:login@2a265ea9]" started-at="2025-01-18T22:27:49 IST" name="loginn" finished-at="2025-01-18T22:27:59 IST" duration-ms="9510" status="PASS">
+    <test started-at="2025-01-23T11:51:32 IST" name="Default test" finished-at="2025-01-23T11:51:43 IST" duration-ms="11034">
+      <class name="chat">
+        <test-method signature="gpt()[pri:0, instance:chat@38cee291]" started-at="2025-01-23T11:51:32 IST" name="gpt" finished-at="2025-01-23T11:51:43 IST" duration-ms="10951" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- loginn -->
-      </class> <!-- login -->
+        </test-method> <!-- gpt -->
+      </class> <!-- chat -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
